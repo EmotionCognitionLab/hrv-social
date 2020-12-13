@@ -20,7 +20,7 @@ timestamp            |  heart_rate  |    acc_x   |    acc_y   |    acc_z   |   a
 2018-08-08T06:51:01  |      68      |  0.162305  |  0.644727  |  0.694023  |   0.65779  |     []     |
 
 
-#### save_data.py is to save data in csv/tsv format in pre/post session from data created clean_raw_data.py, no input args required
+#### save_data.py is to save data in csv/tsv format and to pre/post periods from data created using clean_raw_data.py, no input args required
 
 ```
 python3 save_data.py

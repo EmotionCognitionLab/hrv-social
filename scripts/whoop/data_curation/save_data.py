@@ -60,7 +60,7 @@ def main(subject_data_path):
             pre_data_df.to_csv(csv_data_path.joinpath(pre_str+'.csv.gz'), sep=',', compression='gzip', index=False)
             pre_data_df.to_csv(tsv_data_path.joinpath(pre_str+'.tsv.gz'), sep='\t', compression='gzip', index=False)
 
-            # save pre intervention data
+            # save post intervention data
             post_data_df.to_csv(csv_data_path.joinpath(post_str+'.csv.gz'), sep=',', compression='gzip', index=False)
             post_data_df.to_csv(tsv_data_path.joinpath(post_str+'.tsv.gz'), sep='\t', compression='gzip', index=False)
 

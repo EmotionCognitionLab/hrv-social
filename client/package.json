@@ -30,7 +30,7 @@
     "@types/jwt-decode": "^2.2.1",
     "ack-angular-webcam": "^1.4.0",
     "amazon-cognito-identity-js": "^1.21.0",
-    "aws-sdk": "^2.126.0",
+    "aws-sdk": "^2.814.0",
     "bootstrap": "^4.0.0-beta.2",
     "core-js": "^2.4.1",
     "cuppa-ng2-slidemenu": "^2.0.0",

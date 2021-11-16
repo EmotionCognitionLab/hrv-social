@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/EmotionCognitionLab/hrv-social#readme",
   "dependencies": {
-    "aws-sdk": "^2.205.0",
+    "aws-sdk": "^2.814.0",
     "moment": "^2.21.0"
   }
 }

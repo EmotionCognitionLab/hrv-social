@@ -22,7 +22,7 @@
     "csv-parse": "^4.4.6",
     "googleapis": "^39.1.0",
     "moment": "^2.20.1",
-    "moment-timezone": "^0.5.14"
+    "moment-timezone": "^0.5.35"
   },
   "devDependencies": {
     "assert": "^1.4.1",

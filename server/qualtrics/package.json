@@ -23,7 +23,7 @@
     "assert": "^2.0.0",
     "dotenv": "^8.1.0",
     "lambda-local": "^1.6.3",
-    "mocha": "^6.2.0",
+    "mocha": "^10.2.0",
     "nock": "^11.3.3"
   },
   "dependencies": {
